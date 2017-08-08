@@ -27,7 +27,7 @@ body {
   height: inherit;
   background-size: cover;
   background-position: center;
-  background-image:url("../img/abstract.jpg");
+  background-image:url("../img/background.jpg");
   background-color: black;
 }
 .header h1 {
@@ -68,13 +68,7 @@ body {
   text-decoration: none;
   padding: 0;
 }
-a, a .icon:before {
-  color: #2db855 !important;
-}
-a:hover, a:hover .icon:before {
-  color: #33CD5F !important;
-  text-decoration: none !important;
-}
+
 a::selection {
   color: #ffffff;
 }

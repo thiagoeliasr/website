@@ -1,5 +1,7 @@
 # Personal Website
-[www.brandycarney.com](http://www.brandycarney.com)
+[www.thiagoelias.org](http://thiagoelias.org)
+
+Forked from Brandy Carney's website.
 
 ## Run Locally
 ```
